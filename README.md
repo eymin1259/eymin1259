@@ -2,9 +2,9 @@
 ## 이용민
 #### Mobile App Developer 
 
-:star2: **resume** [yongminlee26.tistory.com/resume](https://yongminlee26.tistory.com/118)  
-:star2: **email**&nbsp;&nbsp;&nbsp; eymin1259@kakao.com <br/>
-:star2: **blog**&nbsp;&nbsp;&nbsp;[yongminlee26.tistory.com](https://yongminlee26.tistory.com/)
+:star2: **resume** &nbsp;&nbsp;[yongminlee26.tistory.com/resume](https://yongminlee26.tistory.com/118)  
+:star2: **email**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eymin1259@kakao.com <br/>
+:star2: **blog**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[yongminlee26.tistory.com](https://yongminlee26.tistory.com/)
 
 <!--
 **eymin1259/eymin1259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
