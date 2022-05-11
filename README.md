@@ -3,7 +3,7 @@
 #### Mobile App Developer 
 
 :star2: **resume** [yongminlee26.tistory.com/resume](https://yongminlee26.tistory.com/118)  
-:star2: **email**&nbsp;&nbsp;&nbsp; eymin1259@kakao.com 
+:star2: **email**&nbsp;&nbsp;&nbsp; eymin1259@kakao.com <br/>
 :star2: **blog**&nbsp;&nbsp;&nbsp;[yongminlee26.tistory.com](https://yongminlee26.tistory.com/)
 
 <!--
