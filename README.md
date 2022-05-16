@@ -2,7 +2,7 @@
 ## 이용민
 #### Mobile Software Engineer
 
-:star2: **resume** &nbsp;&nbsp;[yongminlee26.tistory.com/resume](https://yongminlee26.tistory.com/118)  
+:star2: **resume** &nbsp;&nbsp;[resume](https://yongminlee26.tistory.com/118)  
 :star2: **email**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eymin1259@kakao.com <br/>
 :star2: **blog**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[yongminlee26.tistory.com](https://yongminlee26.tistory.com/)
 
