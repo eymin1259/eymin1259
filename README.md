@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 🙋‍♂️
 ## 이용민
-#### Mobile Software Engineer
+#### iOS Developer
 
 :star2: **resume** &nbsp;&nbsp;[resume](https://yongminlee26.tistory.com/118)  
 :star2: **email**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eymin1259@kakao.com <br/>
