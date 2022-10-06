@@ -1,6 +1,5 @@
 ### Hi there 🙋‍♂️
-## 이용민
-#### iOS Developer
+## 이용민, iOS Developer 
 
 :star2: **resume** &nbsp;&nbsp;[resume](https://frequent-sweater-917.notion.site/iOS-4b313e3e9caa44bd9f8182d256a0d763)  
 :star2: **email**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eymin1259@kakao.com <br/>
