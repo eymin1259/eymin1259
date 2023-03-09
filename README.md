@@ -1,7 +1,9 @@
 ### Hi there 🙋‍♂️
 ## 이용민, software engineer 
 
+<!--
 :star2: **resume** &nbsp;&nbsp;[bit.ly/3H0xf0K](https://bit.ly/3H0xf0K)  
+-->
 :star2: **email**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; eymin1259@kakao.com <br/>
 :star2: **blog**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[yongminlee26.tistory.com](https://yongminlee26.tistory.com/)
 
