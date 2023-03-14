@@ -12,7 +12,7 @@
 
 
 ## Released Application
-:star2: pAInter - 인공지능 ChatGPT 기반 이미지 변형 어플리케이션 <br/>
+:star2: pAInter - ChatGPT 기반 이미지 변형 어플리케이션 <br/>
 :star2: [Dobby](https://apps.apple.com/kr/app/id1658783993) - 집안일 관리 어플리케이션 <br/>
 :star2: 개발족보 - 개발 지식 공유 어플리케이션 <br/>
 :star2: [그때이곳](https://apps.apple.com/us/app/id1585791289) - 위치 기반 알람 어플리케이션 <br/>
