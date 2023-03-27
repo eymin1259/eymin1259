@@ -12,7 +12,7 @@
 
 
 ## Released Application
-:star2: [Aim](https://github.com/eymin1259/pAInter-RN) : ChatGPT 기반 이미지 변형 어플리케이션 <br/>
+:star2: [Aiditor](https://github.com/eymin1259/pAInter-RN) : A.I를 활용한 이미지 생성/변형 어플리케이션 <br/>
 :star2: [Dobby](https://github.com/eymin1259/Dobby-iOS) : 집안일 관리 어플리케이션 - [App Store(iOS)](https://apps.apple.com/kr/app/id1658783993), [App Store(WatchOS)](https://apps.apple.com/kr/app/id1658783993?platform=appleWatch) <br/>
 :star2: [개발족보](https://github.com/eymin1259/DevSheet) : 개발 지식 공유 어플리케이션 <br/>
 :star2: [그때이곳](https://github.com/eymin1259/atThatTimeHere) : 위치 기반 알람 어플리케이션 - [App Store(us)](https://apps.apple.com/us/app/id1585791289) <br/>
