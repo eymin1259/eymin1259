@@ -8,8 +8,14 @@
 :star2: **blog**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[yongminlee26.tistory.com](https://yongminlee26.tistory.com/)
 -->
 ## Released Application
-- [Dobby](https://github.com/eymin1259/Dobby-iOS) : 집안일 관리 어플리케이션 - [App Store(iOS)](https://apps.apple.com/kr/app/id1658783993), [App Store(WatchOS)](https://apps.apple.com/kr/app/id1658783993?platform=appleWatch) 
-- [그때이곳](https://github.com/eymin1259/atThatTimeHere) : 위치 기반 알람 어플리케이션 - [App Store(us)](https://apps.apple.com/us/app/id1585791289), [App Store(kr)](https://apps.apple.com/kr/app/id1585791289)
+- [Dobby](https://github.com/eymin1259/Dobby-iOS)
+  - 집안일 관리 어플리케이션 
+  - [App Store(iOS)](https://apps.apple.com/kr/app/id1658783993), [App Store(WatchOS)](https://apps.apple.com/kr/app/id1658783993?platform=appleWatch) 
+
+
+- [그때이곳](https://github.com/eymin1259/atThatTimeHere) 
+  - 위치 기반 알람 어플리케이션
+  - [App Store(us)](https://apps.apple.com/us/app/id1585791289), [App Store(kr)](https://apps.apple.com/kr/app/id1585791289)
 
 
 <!--
