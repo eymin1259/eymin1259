@@ -1,10 +1,10 @@
 ### Hi there 🙋‍♂️ 
 
 ## Yongmin Lee
-- **email**: &nbsp;&nbsp;eymin1259@gmail.com <br/>
-- **resume**: &nbsp;&nbsp;[bit.ly/3H0xf0K](https://bit.ly/3H0xf0K)  
+- **email**: &nbsp;&nbsp;eymin1259.japan@gmail.com <br/>
 
 <!--
+- **resume**: &nbsp;&nbsp;[bit.ly/3H0xf0K](https://bit.ly/3H0xf0K)  
 :star2: **blog**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[yongminlee26.tistory.com](https://yongminlee26.tistory.com/)
 -->
 ## Released Application
