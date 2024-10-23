@@ -3,7 +3,7 @@
 -->
 ## Yongmin Lee
 - **email**: &nbsp;&nbsp;eymin1259.japan@gmail.com <br/>
-- **app store**: [app store](https://apps.apple.com/kr/developer/yongmin-lee/id1585791291)<br/>
+- **Released Application**: [app store](https://apps.apple.com/kr/developer/yongmin-lee/id1585791291)<br/>
   
 <!--
 - **resume**: &nbsp;&nbsp;[bit.ly/3H0xf0K](https://bit.ly/3H0xf0K)  
