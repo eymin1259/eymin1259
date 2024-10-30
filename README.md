@@ -11,12 +11,12 @@
 -->
 ## Released Application
 - [Dobby](https://github.com/eymin1259/Dobby-iOS)
-  - 스케줄 관리 어플리케이션 
+  - Schedule Management Application 
   - [App Store(iOS)](https://apps.apple.com/kr/app/id1658783993), [App Store(WatchOS)](https://apps.apple.com/kr/app/id1658783993?platform=appleWatch) 
 
 
 - [그때이곳](https://github.com/eymin1259/atThatTimeHere) 
-  - GPS 기반 메모 어플리케이션
+  - GPS-based memo application
   - [App Store(us)](https://apps.apple.com/us/app/id1585791289), [App Store(kr)](https://apps.apple.com/kr/app/id1585791289)
 
 
