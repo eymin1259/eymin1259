@@ -10,14 +10,20 @@
 :star2: **blog**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[yongminlee26.tistory.com](https://yongminlee26.tistory.com/)
 -->
 ## Released Application
-- [Dobby](https://github.com/eymin1259/Dobby-iOS)
+- Dobby
   - Schedule Management Application 
+  - [Github](https://github.com/eymin1259/Dobby-iOS)
   - [App Store(iOS)](https://apps.apple.com/kr/app/id1658783993), [App Store(WatchOS)](https://apps.apple.com/kr/app/id1658783993?platform=appleWatch) 
 
+- Aiditor
+  - AI-based image creation application
+  - [Github](https://github.com/eymin1259/pAInter-RN)
+  - [App Store](https://apps.apple.com/us/app/aiditor-ai-image-editor/id6446832840)
 
-- [그때이곳](https://github.com/eymin1259/atThatTimeHere) 
+- 그때이곳
   - GPS-based memo application
-  - [App Store(us)](https://apps.apple.com/us/app/id1585791289), [App Store(kr)](https://apps.apple.com/kr/app/id1585791289)
+  - [Github](https://github.com/eymin1259/atThatTimeHere)
+  - [App Store](https://apps.apple.com/us/app/id1585791289)
 
 
 <!--
