@@ -9,6 +9,8 @@
 - **resume**: &nbsp;&nbsp;[bit.ly/3H0xf0K](https://bit.ly/3H0xf0K)  
 :star2: **blog**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[yongminlee26.tistory.com](https://yongminlee26.tistory.com/)
 -->
+
+<!--
 ## Released Application
 - Dobby
   - Schedule Management Application 
@@ -25,7 +27,7 @@
   - [Github](https://github.com/eymin1259/atThatTimeHere)
   - [App Store](https://apps.apple.com/us/app/id1585791289)
 
-
+-->
 <!--
 :star2: [Aiditor](https://github.com/eymin1259/pAInter-RN) : OpenAI를 활용한 이미지 생성 및 변형 어플리케이션 - [App Store](https://apps.apple.com/kr/app/aiditor-ai-image-editor/id6446832840)<br/>
 -->
