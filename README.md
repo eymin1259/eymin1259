@@ -2,9 +2,13 @@
 ### Hi there 👋
 
 ### Yongmin Lee
-- email : eymin1259@gmail.com <br/>
+- email : eymin1259@gmail.com 
 - resume : Linkedin
 
+<br/>
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,swift,java,py&theme=light)](https://skillicons.dev)
   
 
 
