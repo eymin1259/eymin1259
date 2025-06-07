@@ -8,7 +8,6 @@
 <br/>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,swift,java,py&theme=light)](https://skillicons.dev)
   
 
 
