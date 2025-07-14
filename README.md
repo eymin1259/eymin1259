@@ -1,9 +1,16 @@
 
-### Hi there 👋
 
 ### Yongmin Lee
 - email : eymin1259@gmail.com 
 - resume : Linkedin
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=swift,react,spring,redis,kafka,docker,kubernetes,aws,azure&theme=light)](https://skillicons.dev)
+
+### Certificates
+<a href="https://www.credly.com/badges/fb0ec6dd-de45-4f1b-8bd7-73a8e9fd0dd2"><img width="100" height="100" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+<a href="https://www.credly.com/badges/696e4862-3851-4d3e-9368-03af4f1660ca"><img width="100" height="100" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/></a>
+
 
 <br/>
 
