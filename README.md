@@ -6,7 +6,7 @@
 - portfolio : notion
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=swift,react,java,spring,redis,kafka,docker,kubernetes,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,js,react,java,spring,redis,kafka,docker,kubernetes,aws&theme=light)](https://skillicons.dev)
 
 ### Certificates
 <a href="https://www.credly.com/badges/fb0ec6dd-de45-4f1b-8bd7-73a8e9fd0dd2"><img width="100" height="100" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
