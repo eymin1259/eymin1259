@@ -3,7 +3,6 @@
 ### Yongmin Lee
 - email : eymin1259@gmail.com 
 - resume : Linkedin
-- portfolio : notion
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=swift,js,react,java,spring,redis,kafka,docker,kubernetes,aws&theme=light)](https://skillicons.dev)
