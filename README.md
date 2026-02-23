@@ -16,7 +16,6 @@
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9404D1C2FBA8C0AF927091D58F77725C2A56B4AD68E912B064940E306330D211"><img width="100" height="100" src="https://images.credly.com/size/160x160/images/0d01a8a1-a9f6-42d4-a92e-a12d76540526/GLDSE11JPN_cached_image_20251014-32-oxswix.png"/></a>
 <a href="https://www.credly.com/badges/c6303dba-8f80-4e6c-95ea-214c6fa34218"><img width="100" height="100" src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png"/></a>
 <a href="https://www.credly.com/badges/c6303dba-8f80-4e6c-95ea-214c6fa34218"><img width="100" height="100" src="https://training.linuxfoundation.org/wp-content/uploads/2020/08/CKAD_badge-300x300.png"/></a>
-<a href="https://www.credly.com/badges/c6303dba-8f80-4e6c-95ea-214c6fa34218"><img width="100" height="100" src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x293.png"/></a>
 <br/>
 
 
