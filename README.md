@@ -1,7 +1,6 @@
 
 
 ### Yongmin Lee
-- email : eymin1259@gmail.com 
 - resume : Linkedin
 
 ### Skills
